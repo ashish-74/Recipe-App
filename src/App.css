@@ -1,0 +1,32 @@
+.App{
+  min-height: 100px;
+  background-color: aquamarine;
+}
+
+.search-form{
+  min-height: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar{
+  margin-top: 5%;
+  width: 30% ;
+  border: none;
+  padding: 10px;
+}
+
+.search-button{
+  margin-top: 5%;
+  background-color: blue;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+}
+
+.recipe{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap:wrap ;
+}
